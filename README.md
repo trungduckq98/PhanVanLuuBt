@@ -6,7 +6,7 @@ Clone repository về máy tính của bạn.
 
 bash
 Copy code
-git clone [[https://github.com/your-username/Image-Balance-App.git](https://github.com/trungduckq98/PhanVanLuuBt)](https://github.com/trungduckq98/PhanVanLuuBt)
+git clone [(https://github.com/trungduckq98/PhanVanLuuBt)](https://github.com/trungduckq98/PhanVanLuuBt)
 Cài Đặt Môi Trường:
 
 Đảm bảo bạn có Python cài đặt trên máy tính của bạn.
